@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+crear_notebook_vision.py
+generar_informe_pdf.py
+generar_informe_word.py
